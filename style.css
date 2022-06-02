@@ -1,0 +1,32 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    overflow: hidden;
+}
+.header{
+    height: 100vh;
+}
+
+.navbar-style{
+    box-shadow: 0 5px 10px #efefef;
+}
+ 
+.logo{
+    height: 60px;
+    padding: 2px 10px;
+}
+
+.icon-bar{
+    background: darkorange;
+}
+
+.background{
+    background-image: url("images/coffeebin.jpg");
+    /* background-color: #cccccc; */
+    height: 600px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    
+}
